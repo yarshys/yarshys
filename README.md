@@ -1,4 +1,7 @@
-## Hey there samurai ...
+## Hey There Samurai! <img src="https://github.com/yarshys/yarshys/blob/main/wave.gif" width="30"> ...
+
+
+
 
 <!---
 yarshys/yarshys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
